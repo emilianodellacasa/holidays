@@ -22,6 +22,7 @@ module Holidays
             {:function => lambda { |year| Holidays.easter(year)+1 }, :function_id => "easter(year)+1", :name => "Lunedì dell'Angelo", :regions => [:it]}],
       1 => [{:mday => 1, :name => "Capodanno", :regions => [:it]},
             {:mday => 6, :name => "Epifania", :regions => [:it]}],
+      3 => [{:mday => 29, :name => "Vacanze Vodafone", :regions => [:it]}],
       4 => [{:mday => 25, :name => "Festa della Liberazione", :regions => [:it]}],
       5 => [{:mday => 1, :name => "Festa dei Lavoratori", :regions => [:it]}],
       6 => [{:mday => 2, :name => "Festa della Repubblica", :regions => [:it]}],

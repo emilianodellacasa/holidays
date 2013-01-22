@@ -19,6 +19,10 @@ months:
   - name: Epifania
     regions: [it]
     mday: 6
+  3:
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 29
   4:
   - name: Festa della Liberazione
     regions: [it]
@@ -32,9 +36,42 @@ months:
     regions: [it]
     mday: 2
   8: 
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 6
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 7
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 8
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 9
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 10
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 11
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 12
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 13
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 14
   - name: Assunzione
     regions: [it]
     mday: 15
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 16
+  - name: Vacanze Vodafone
+    regions: [it]
+    mday: 17
   11: 
   - name: Ognissanti
     regions: [it]
